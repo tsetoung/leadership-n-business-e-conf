@@ -8,9 +8,3 @@ Learning Objectives:
 3. Building systems
 
 Bonus: Story about understanding the value of money.
-
-
-<a href="myfile.htm"><img src="rainbow.gif" border="0" alt="Link to this page"></a>
-      Military Examples: Lead from the front, Puting soldiers need before your own
-
-      Civilian Examples:
