@@ -3,20 +3,21 @@ body {
   background-size: inherit;
   background-attachment: fixed;
   background-position: top;
-  background-color: #ADD8E6;
+  background-color: #F5F5F5;
 }
 
 h1 {
   text-align: center;
-  text-shadow: 5px 5px 10px blue
+  text-shadow: 5px 5px 10px yellow
 }
 
 
-h2, h3 {
+h2 {
   text-align: center;
 }
 
 p{
   text-align: left;
   padding-left: 20px;
+
 }
