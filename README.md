@@ -8,3 +8,5 @@ Learning Objectives:
 3. Building systems
 
 Bonus: Story about understanding the value of money.
+
+Copyright © 2015 by John Moua. All rights reserved.
